@@ -1,0 +1,9 @@
+O app é uma lista de tarefas, em que colocamos a tarefa a se fazer, o prazo e a prioridade, logo após apertando o inserir, irá adicionar automaticamente em uma lista
+que está organizada por prioridade, após a execução da tarefa, existe a possibilidade de excluir a tarefa. O app possui também ainda um filtro de busca por prioridade.
+
+Funcionalidades:
+- Cadastro de registros
+- Listagem com filtro
+- Exclusão de registros
+- Ordenação de lista por prioridade
+
